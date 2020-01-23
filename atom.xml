@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Emil`s Blog</title>
+  
+  <subtitle>Hvnobug</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.hvnobug.com/"/>
+  <updated>2020-01-23T05:20:43.442Z</updated>
+  <id>https://blog.hvnobug.com/</id>
+  
+  <author>
+    <name>Emil</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>死磕Jdk源码之StringBuilder</title>
+    <link href="https://blog.hvnobug.com/post/jdk-source-stringbuilder.html"/>
+    <id>https://blog.hvnobug.com/post/jdk-source-stringbuilder.html</id>
+    <published>2020-01-20T02:38:08.000Z</published>
+    <updated>2020-01-23T05:20:43.442Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Thu Jan 23 2020 05:21:30 GMT+0000 (Coordinated Universal Time) --&gt;&lt;div class=&quot;note
+        
+      
+    
+    </summary>
+    
+    
+      <category term="jdk源码" scheme="https://blog.hvnobug.com/categories/jdk%E6%BA%90%E7%A0%81/"/>
+    
+      <category term="java" scheme="https://blog.hvnobug.com/categories/jdk%E6%BA%90%E7%A0%81/java/"/>
+    
+    
+      <category term="java" scheme="https://blog.hvnobug.com/tags/java/"/>
+    
+      <category term="jdk源码" scheme="https://blog.hvnobug.com/tags/jdk%E6%BA%90%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>死磕Jdk源码之HashSet</title>
+    <link href="https://blog.hvnobug.com/post/jdk-source-hashset.html"/>
+    <id>https://blog.hvnobug.com/post/jdk-source-hashset.html</id>
+    <published>2020-01-19T08:30:19.000Z</published>
+    <updated>2020-01-23T05:20:43.442Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Thu Jan 23 2020 05:21:30 GMT+0000 (Coordinated Universal Time) --&gt;&lt;div class=&quot;note
+        
+      
+    
+    </summary>
+    
+    
+      <category term="jdk源码" scheme="https://blog.hvnobug.com/categories/jdk%E6%BA%90%E7%A0%81/"/>
+    
+      <category term="java" scheme="https://blog.hvnobug.com/categories/jdk%E6%BA%90%E7%A0%81/java/"/>
+    
+    
+      <category term="java" scheme="https://blog.hvnobug.com/tags/java/"/>
+    
+      <category term="jdk源码" scheme="https://blog.hvnobug.com/tags/jdk%E6%BA%90%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>死磕Jdk源码之HashMap</title>
+    <link href="https://blog.hvnobug.com/post/jdk-source-hashmap.html"/>
+    <id>https://blog.hvnobug.com/post/jdk-source-hashmap.html</id>
+    <published>2020-01-18T09:18:49.000Z</published>
+    <updated>2020-01-23T05:20:43.442Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Thu Jan 23 2020 05:21:30 GMT+0000 (Coordinated Universal Time) --&gt;&lt;div class=&quot;note
+        
+      
+    
+    </summary>
+    
+    
+      <category term="jdk源码" scheme="https://blog.hvnobug.com/categories/jdk%E6%BA%90%E7%A0%81/"/>
+    
+      <category term="java" scheme="https://blog.hvnobug.com/categories/jdk%E6%BA%90%E7%A0%81/java/"/>
+    
+    
+      <category term="java" scheme="https://blog.hvnobug.com/tags/java/"/>
+    
+      <category term="jdk源码" scheme="https://blog.hvnobug.com/tags/jdk%E6%BA%90%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>死磕Jdk源码之LinkedList</title>
+    <link href="https://blog.hvnobug.com/post/jdk-source-linkedlist.html"/>
+    <id>https://blog.hvnobug.com/post/jdk-source-linkedlist.html</id>
+    <published>2020-01-17T06:45:02.000Z</published>
+    <updated>2020-01-23T05:20:43.442Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Thu Jan 23 2020 05:21:30 GMT+0000 (Coordinated Universal Time) --&gt;&lt;div class=&quot;note
+        
+      
+    
+    </summary>
+    
+    
+      <category term="jdk源码" scheme="https://blog.hvnobug.com/categories/jdk%E6%BA%90%E7%A0%81/"/>
+    
+      <category term="java" scheme="https://blog.hvnobug.com/categories/jdk%E6%BA%90%E7%A0%81/java/"/>
+    
+    
+      <category term="java" scheme="https://blog.hvnobug.com/tags/java/"/>
+    
+      <category term="jdk源码" scheme="https://blog.hvnobug.com/tags/jdk%E6%BA%90%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>死磕Jdk源码之ArrayList</title>
+    <link href="https://blog.hvnobug.com/post/jdk-source-arraylist.html"/>
+    <id>https://blog.hvnobug.com/post/jdk-source-arraylist.html</id>
+    <published>2020-01-16T04:49:04.000Z</published>
+    <updated>2020-01-23T05:20:43.442Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Thu Jan 23 2020 05:21:30 GMT+0000 (Coordinated Universal Time) --&gt;&lt;div class=&quot;note
+        
+      
+    
+    </summary>
+    
+    
+      <category term="jdk源码" scheme="https://blog.hvnobug.com/categories/jdk%E6%BA%90%E7%A0%81/"/>
+    
+      <category term="java" scheme="https://blog.hvnobug.com/categories/jdk%E6%BA%90%E7%A0%81/java/"/>
+    
+    
+      <category term="java" scheme="https://blog.hvnobug.com/tags/java/"/>
+    
+      <category term="jdk源码" scheme="https://blog.hvnobug.com/tags/jdk%E6%BA%90%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java实现堆排序</title>
+    <link href="https://blog.hvnobug.com/post/heap-sort.html"/>
+    <id>https://blog.hvnobug.com/post/heap-sort.html</id>
+    <published>2020-01-15T05:30:28.000Z</published>
+    <updated>2020-01-23T05:20:43.438Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Thu Jan 23 2020 05:21:30 GMT+0000 (Coordinated Universal Time)
+        
+      
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://blog.hvnobug.com/categories/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="数据结构" scheme="https://blog.hvnobug.com/categories/%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+      <category term="java" scheme="https://blog.hvnobug.com/categories/%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/java/"/>
+    
+    
+      <category term="java" scheme="https://blog.hvnobug.com/tags/java/"/>
+    
+      <category term="算法" scheme="https://blog.hvnobug.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="数据结构" scheme="https://blog.hvnobug.com/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java实现LRU算法</title>
+    <link href="https://blog.hvnobug.com/post/lru-java.html"/>
+    <id>https://blog.hvnobug.com/post/lru-java.html</id>
+    <published>2020-01-14T05:12:32.000Z</published>
+    <updated>2020-01-23T05:20:43.442Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Thu Jan 23 2020 05:21:30 GMT+0000 (Coordinated Universal Time) --&gt;&lt;div class=&quot;note
+        
+      
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://blog.hvnobug.com/categories/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="java" scheme="https://blog.hvnobug.com/categories/%E7%AE%97%E6%B3%95/java/"/>
+    
+    
+      <category term="java" scheme="https://blog.hvnobug.com/tags/java/"/>
+    
+      <category term="算法" scheme="https://blog.hvnobug.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java实现布隆过滤器</title>
+    <link href="https://blog.hvnobug.com/post/bloom-filter-java.html"/>
+    <id>https://blog.hvnobug.com/post/bloom-filter-java.html</id>
+    <published>2020-01-13T08:02:13.000Z</published>
+    <updated>2020-01-23T05:20:43.438Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Thu Jan 23 2020 05:21:30 GMT+0000 (Coordinated Universal Time) --&gt;&lt;div class=&quot;note
+        
+      
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://blog.hvnobug.com/categories/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="java" scheme="https://blog.hvnobug.com/categories/%E7%AE%97%E6%B3%95/java/"/>
+    
+    
+      <category term="java" scheme="https://blog.hvnobug.com/tags/java/"/>
+    
+      <category term="算法" scheme="https://blog.hvnobug.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一个简约的 vuepress 主题 dew</title>
+    <link href="https://blog.hvnobug.com/post/vuepress-theme-dew.html"/>
+    <id>https://blog.hvnobug.com/post/vuepress-theme-dew.html</id>
+    <published>2020-01-01T02:13:29.000Z</published>
+    <updated>2020-01-23T05:20:43.442Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Thu Jan 23 2020 05:21:30 GMT+0000 (Coordinated Universal Time) --&gt;&lt;p&gt;推荐一款自制的 &lt;code&gt;vuepress&lt;/code&gt; 主题 - &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="vuepress" scheme="https://blog.hvnobug.com/categories/vuepress/"/>
+    
+    
+      <category term="vuepress" scheme="https://blog.hvnobug.com/tags/vuepress/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Github 加速</title>
+    <link href="https://blog.hvnobug.com/post/github-accelerate.html"/>
+    <id>https://blog.hvnobug.com/post/github-accelerate.html</id>
+    <published>2019-12-31T04:03:13.000Z</published>
+    <updated>2020-01-23T05:20:43.438Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Thu Jan 23 2020 05:21:30 GMT+0000 (Coordinated Universal Time) --&gt;&lt;blockquote&gt;&lt;p&gt;Github 慢到爆炸,再也受不了一秒 12kb
+        
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://blog.hvnobug.com/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="https://blog.hvnobug.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为你的 hexo 添加 loading page</title>
+    <link href="https://blog.hvnobug.com/post/hexo-loading-page.html"/>
+    <id>https://blog.hvnobug.com/post/hexo-loading-page.html</id>
+    <published>2019-12-30T05:11:01.000Z</published>
+    <updated>2020-01-23T05:20:43.438Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Thu Jan 23 2020 05:21:30 GMT+0000 (Coordinated Universal Time) --&gt;&lt;p&gt;先看效果图。&lt;/p&gt;&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://blog.hvnobug.com/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="https://blog.hvnobug.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo使用脚本解决新浪图床防盗链问题</title>
+    <link href="https://blog.hvnobug.com/post/hexo-no-referrer.html"/>
+    <id>https://blog.hvnobug.com/post/hexo-no-referrer.html</id>
+    <published>2019-12-26T07:28:19.000Z</published>
+    <updated>2020-01-23T05:20:43.438Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Thu Jan 23 2020 05:21:30 GMT+0000 (Coordinated Universal Time) --&gt;&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://blog.hvnobug.com/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="https://blog.hvnobug.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一个神奇的 python 开源项目-thefuck</title>
+    <link href="https://blog.hvnobug.com/post/how-interesting-project-thefuck.html"/>
+    <id>https://blog.hvnobug.com/post/how-interesting-project-thefuck.html</id>
+    <published>2019-12-25T06:11:23.000Z</published>
+    <updated>2020-01-23T05:20:43.438Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Thu Jan 23 2020 05:21:30 GMT+0000 (Coordinated Universal Time) --&gt;&lt;blockquote&gt;&lt;p&gt;最近在 github
+        
+      
+    
+    </summary>
+    
+    
+      <category term="python" scheme="https://blog.hvnobug.com/categories/python/"/>
+    
+    
+      <category term="python" scheme="https://blog.hvnobug.com/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringSecurity中通过Nginx转发重定向到Nginx的地址解决办法</title>
+    <link href="https://blog.hvnobug.com/post/spring-security-redirect.html"/>
+    <id>https://blog.hvnobug.com/post/spring-security-redirect.html</id>
+    <published>2019-12-24T05:01:01.000Z</published>
+    <updated>2020-01-23T05:20:43.442Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Thu Jan 23 2020 05:21:30 GMT+0000 (Coordinated Universal Time) --&gt;&lt;h2 id=&quot;问题描述&quot;&gt;&lt;a href=&quot;#问题描述&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="java" scheme="https://blog.hvnobug.com/categories/java/"/>
+    
+    
+      <category term="java" scheme="https://blog.hvnobug.com/tags/java/"/>
+    
+      <category term="spring-security" scheme="https://blog.hvnobug.com/tags/spring-security/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>分享 Github 开源的程序员抢票神器</title>
+    <link href="https://blog.hvnobug.com/post/12306-open-source.html"/>
+    <id>https://blog.hvnobug.com/post/12306-open-source.html</id>
+    <published>2019-12-23T02:11:19.000Z</published>
+    <updated>2020-01-23T05:20:43.438Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Thu Jan 23 2020 05:21:30 GMT+0000 (Coordinated Universal Time) --&gt;&lt;p&gt;马上春节了,很多胖友都在为回家的火车票抓狂呢,一票难求啊。&lt;/p&gt;&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="github" scheme="https://blog.hvnobug.com/categories/github/"/>
+    
+    
+      <category term="github" scheme="https://blog.hvnobug.com/tags/github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>推荐一些实用的开源工具(Java篇)</title>
+    <link href="https://blog.hvnobug.com/post/awesome-java-github-tool.html"/>
+    <id>https://blog.hvnobug.com/post/awesome-java-github-tool.html</id>
+    <published>2019-12-21T08:01:19.000Z</published>
+    <updated>2020-01-23T05:20:43.438Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Thu Jan 23 2020 05:21:30 GMT+0000 (Coordinated Universal Time) --&gt;&lt;h2 id=&quot;alibaba-arthas&quot;&gt;&lt;a href=&quot;#alibaba-arthas&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="java" scheme="https://blog.hvnobug.com/categories/java/"/>
+    
+    
+      <category term="github" scheme="https://blog.hvnobug.com/tags/github/"/>
+    
+      <category term="java" scheme="https://blog.hvnobug.com/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>推荐一些实用的Github项目(Java篇)</title>
+    <link href="https://blog.hvnobug.com/post/awesome-java-github-project.html"/>
+    <id>https://blog.hvnobug.com/post/awesome-java-github-project.html</id>
+    <published>2019-12-21T04:21:09.000Z</published>
+    <updated>2020-01-23T05:20:43.438Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Thu Jan 23 2020 05:21:30 GMT+0000 (Coordinated Universal Time) --&gt;&lt;h2 id=&quot;zhoutaoo-SpringCloud&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="java" scheme="https://blog.hvnobug.com/categories/java/"/>
+    
+    
+      <category term="github" scheme="https://blog.hvnobug.com/tags/github/"/>
+    
+      <category term="java" scheme="https://blog.hvnobug.com/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Opencv 开源项目</title>
+    <link href="https://blog.hvnobug.com/post/opencv-opensource.html"/>
+    <id>https://blog.hvnobug.com/post/opencv-opensource.html</id>
+    <published>2019-12-20T05:11:08.000Z</published>
+    <updated>2020-01-23T05:20:43.442Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Thu Jan 23 2020 05:21:30 GMT+0000 (Coordinated Universal Time) --&gt;&lt;h2 id=&quot;Roujack-mathAI&quot;&gt;&lt;a href=&quot;#Roujack-mathAI&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="python" scheme="https://blog.hvnobug.com/categories/python/"/>
+    
+    
+      <category term="python" scheme="https://blog.hvnobug.com/tags/python/"/>
+    
+      <category term="opencv" scheme="https://blog.hvnobug.com/tags/opencv/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于博客文章加密的设计</title>
+    <link href="https://blog.hvnobug.com/post/about-document-encrypt.html"/>
+    <id>https://blog.hvnobug.com/post/about-document-encrypt.html</id>
+    <published>2019-12-17T06:21:28.000Z</published>
+    <updated>2020-01-23T05:20:43.438Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Thu Jan 23 2020 05:21:30 GMT+0000 (Coordinated Universal Time)
+        
+      
+    
+    </summary>
+    
+    
+      <category term="other" scheme="https://blog.hvnobug.com/categories/other/"/>
+    
+    
+      <category term="encrypt" scheme="https://blog.hvnobug.com/tags/encrypt/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Github 上的学习资源</title>
+    <link href="https://blog.hvnobug.com/post/github-learning.html"/>
+    <id>https://blog.hvnobug.com/post/github-learning.html</id>
+    <published>2019-12-12T05:01:39.000Z</published>
+    <updated>2020-01-23T05:20:43.438Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Thu Jan 23 2020 05:21:30 GMT+0000 (Coordinated Universal Time) --&gt;&lt;blockquote&gt;&lt;p&gt;统计一些 github 上的学习资源,感觉对你有帮助的朋友,可以给我一个
+        
+      
+    
+    </summary>
+    
+    
+      <category term="github" scheme="https://blog.hvnobug.com/categories/github/"/>
+    
+    
+      <category term="github" scheme="https://blog.hvnobug.com/tags/github/"/>
+    
+  </entry>
+  
+</feed>
